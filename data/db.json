@@ -1,0 +1,17 @@
+{
+    "posts": [
+        
+   {
+    "title": "Learn Js by Code with Harry",
+    "body": "I'ts free course for freshers",
+    "id": 1,
+    "tags": ["WebDeb", "LearnCoding", "NinjaMaster"]
+},
+
+   {
+    "title": "Learn Python by Code with Harry",
+    "body": "I'ts free course for freshers",
+    "id": 2,
+    "tags": ["WebDebff", "LearnCodingdfd", "NinjaMastedfr"] 
+    }]
+}
